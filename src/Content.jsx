@@ -16,6 +16,7 @@ export function Content() {
 
   return (
     <main>
+      <h1 className="text-3xl font-bold p-4 text-center">My News Site</h1>
       <ArticlesIndex articles={articles} />
     </main>
   );

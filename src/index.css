@@ -4,9 +4,6 @@
 
 html {
   scroll-behavior: smooth;
+  background-color: rgba(0, 0, 0, 0.117);
 }
 
-img {
-  height: 250px;
-  width: 400px;
-}
